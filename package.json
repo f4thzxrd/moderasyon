@@ -1,8 +1,8 @@
 {
-  "//1": "Dr.SansarBey",
+  "//1": "Fathz was here",
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "V12 boş altyapı",
+  "description": "V12 Moderasyon Botu",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
